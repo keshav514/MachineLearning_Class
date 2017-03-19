@@ -1,6 +1,6 @@
 
-*.xlsx
+.DS_Store
 
 *.xlsx
 
-Ex1/Excel basic.xlsx
+*.xlsx
